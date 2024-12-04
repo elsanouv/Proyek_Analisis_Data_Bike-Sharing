@@ -8,9 +8,9 @@ Project ini merupakan proyek Analisis Data pada dataset Bike Sharing. Hasil anal
 
 - `/dashboard`: Berisikan file utama yang ditampilkan untuk dashboard (dashboard.py) dan 2 dataset yang telah dibersihkan (all_data.csv dan hour_clean.csv) dan 1 gambar untuk logo dashboard
 - `/data` : Menyimpan dataset yang digunakan untuk analisis (Bike Sharing Dataset)
-- `notebook_Bike_Sharing.ipynb` : file jupyter notebook yang digunakan untuk melakukan analisis data.
+- `notebook_Bike_Sharing.ipynb` : file collab notebook yang digunakan untuk melakukan analisis data.
 - `README.md` : File informasi tentang proyek ini
-- `requirements.txt` : File yang berisikan library apa saja yang dilakukan pada proyek ini
+- `requirements.txt` : File yang berisikan library yang digunakan pada proyek ini
 - `screenshoot` : Berisikan gambar-gambar hasil screenshot dashboard
 
 ## Run steamlit app
